@@ -8,9 +8,9 @@ I created this Java Applet using JGrasp.
 
 To run the program:
 
-In the terminal:
+Clone or download this repo
 
-Type the command: javac TwoSorts.java
+In the terminal, type the command: javac TwoSorts.java
 
 HIT ENTER
 
